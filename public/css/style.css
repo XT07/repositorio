@@ -1,0 +1,52 @@
+body {
+    background-color: whitesmoke;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+a {
+    text-decoration: none;
+}
+p {
+    font-size: 20px;
+    text-indent: 15px;
+}
+h1 {
+    margin: 0;
+}
+nav {
+    background-color: rgb(41, 147, 189);
+    color: white;
+    padding: 20px;
+}
+.menu {
+    float: right;
+    margin: 0;
+}
+.menu li {
+    list-style: none;
+    display: inline-block;
+    color: rgba(247, 245, 245, 0.877);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 22px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+.clear {
+    clear: both;
+}
+.container {
+    width: 50%;
+    margin: 0 auto;
+}
+.about {
+    text-align: center;
+    background-color: rgb(238, 238, 238);
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+}
+.about p {
+    font-family: Arial, Helvetica, sans-serif;
+}
